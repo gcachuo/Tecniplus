@@ -12,3 +12,12 @@ h2 img {
     align-items: center;
     height: 225px;
 }
+
+.slick-slide{
+    text-align: center;
+}
+
+.slick-slide img {
+    height: 470px;
+    display: inline;
+}
