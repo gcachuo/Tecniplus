@@ -1,0 +1,14 @@
+h2 img {
+    width: 100%;
+}
+
+.feature img {
+    width: 170px;
+}
+
+.feature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 225px;
+}
